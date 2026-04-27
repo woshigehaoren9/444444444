@@ -1,0 +1,31 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>pic/about.png</file>
+    <file>pic/change.png</file>
+    <file>pic/delete (1).png</file>
+    <file>pic/search.png</file>
+    <file>pic/logoface_3.png</file>
+    <file>pic/checkinrecord.png</file>
+    <file>pic/facerecord.png</file>
+    <file>pic/notlate.png</file>
+    <file>pic/late.png</file>
+    <file>pic/timetable3.png</file>
+    <file>pic/timetable2.png</file>
+    <file>pic/timetable.png</file>
+    <file>pic/checkin2.png</file>
+    <file>pic/checkin.png</file>
+    <file>pic/down.png</file>
+    <file>pic/number.png</file>
+    <file>pic/na.png</file>
+    <file>pic/yes.png</file>
+    <file>pic/stop.png</file>
+    <file>pic/take photo.png</file>
+    <file>pic/camera.png</file>
+    <file>pic/添加用户.png</file>
+    <file>pic/exit.png</file>
+    <file>pic/add.png</file>
+    <file>pic/save.png</file>
+    <file>pic/table_card.png</file>
+    <file>pic/week.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,76 @@
+开始时间: 2026-04-19 15:00:00
+结束时间: 2026-04-19 15:00:03
+总步骤: 40
+错误数: 0
+
+环境信息:
+- temp_root: C:\Users\ASUS\AppData\Local\Temp\facerec_smoke_wmj_73tr
+- source_database: D:\FaceRec\database\database.db
+- test_database: C:\Users\ASUS\AppData\Local\Temp\facerec_smoke_wmj_73tr\database_smoke.db
+- uncaught_exception_count: 0
+
+步骤结果:
+[15:00:00] [通过] 主窗口 -> 实例化并最小化 
+[15:00:00] [通过] 导航栏 -> 点击 pushButton_about 系统首页
+[15:00:00] [通过] 页面 -> 系统首页为背景首页，无内容页实例 
+[15:00:00] [通过] 导航栏 -> 点击 pushButton_register 人脸录入
+[15:00:00] [通过] 页面 -> 人脸录入加载成功 FaceRegister
+[15:00:01] [通过] 人脸录入 -> 点击按钮 pushButton_import_folder text=批量导入
+[15:00:01] [通过] 人脸录入 -> 点击按钮 pushButton_import_image text=单张导入
+[15:00:01] [通过] 人脸录入 -> 点击按钮 pushButton_open text=打开
+[15:00:01] [通过] 人脸录入 -> 点击按钮 pushButton_register text=保存录入
+[15:00:01] [通过] 人脸录入 -> 点击按钮 pushButton_stop text=关闭
+[15:00:01] [通过] 人脸录入 -> 点击按钮 pushButton_take_photo text=拍照
+[15:00:01] [通过] 导航栏 -> 点击 pushButton_checkin 人脸签到
+[15:00:01] [通过] 页面 -> 人脸签到加载成功 FaceCheckin
+[15:00:01] [通过] 人脸签到 -> 点击按钮 pushButton_checkin text=开始监测
+[15:00:02] [通过] 人脸签到 -> 点击按钮 pushButton_checkout text=签退
+[15:00:02] [通过] 人脸签到 -> 点击按钮 pushButton_open text=打开
+[15:00:02] [通过] 人脸签到 -> 点击按钮 pushButton_stop text=关闭
+[15:00:02] [通过] 导航栏 -> 点击 pushButton_record_view 记录查看
+[15:00:02] [通过] 页面 -> 记录查看加载成功 RecordView
+[15:00:02] [通过] 记录查看 -> 点击按钮 btnMakeup text=手动补签
+[15:00:02] [通过] 记录查看 -> 点击按钮 btnQuery text=查询
+[15:00:02] [通过] 记录查看 -> 点击按钮 btnReset text=重置
+[15:00:02] [通过] 导航栏 -> 点击 pushButton_face_record 人脸库管理
+[15:00:02] [通过] 页面 -> 人脸库管理加载成功 FaceRecord
+[15:00:02] [通过] 人脸库管理 -> 点击按钮 pushButton_delete text=删除
+[15:00:02] [通过] 人脸库管理 -> 点击按钮 pushButton_modify text=修改
+[15:00:02] [通过] 人脸库管理 -> 点击按钮 pushButton_search text=搜索
+[15:00:03] [通过] 导航栏 -> 点击 pushButton_checkin_record 考勤管理
+[15:00:03] [通过] 页面 -> 考勤管理加载成功 CheckInRecord
+[15:00:03] [通过] 考勤管理 -> 点击按钮 btnActivateRule text=设为生效规则
+[15:00:03] [通过] 考勤管理 -> 点击按钮 btnDeleteRule text=删除规则
+[15:00:03] [通过] 考勤管理 -> 点击按钮 btnExportCsv text=导出CSV
+[15:00:03] [通过] 考勤管理 -> 点击按钮 btnExportExcel text=导出Excel
+[15:00:03] [通过] 考勤管理 -> 点击按钮 btnMakeup text=手动补签
+[15:00:03] [通过] 考勤管理 -> 点击按钮 btnNewRule text=新增规则
+[15:00:03] [通过] 考勤管理 -> 点击按钮 btnQuery text=查询
+[15:00:03] [通过] 考勤管理 -> 点击按钮 btnReset text=重置
+[15:00:03] [通过] 考勤管理 -> 点击按钮 btnSaveRule text=保存规则
+[15:00:03] [通过] 导航栏 -> 点击 pushButton_exit 退出系统
+[15:00:03] [通过] 资源释放 -> CheckInRecord.close_all 
+
+弹窗记录:
+[15:00:01] [警告] 摄像头打开失败 | 未检测到可用的本地摄像头。
+请检查摄像头是否已连接或被其他程序占用。
+已尝试：0(DSHOW)、0(MSMF)、0(AUTO)
+[15:00:01] [警告] 提示 | 学号不能为空
+[15:00:01] [警告] 提示 | 摄像头尚未打开。
+[15:00:01] [警告] 提示 | 请先打开摄像头。
+[15:00:01] [警告] 提示 | 请先打开摄像头并等待画面。
+[15:00:01] [警告] 提示 | 请先打开摄像头并等待画面。
+[15:00:02] [警告] 摄像头打开失败 | 未检测到可用的本地摄像头。
+请检查摄像头是否已连接或被其他程序占用。
+已尝试：0(DSHOW)、0(MSMF)、0(AUTO)
+[15:00:02] [警告] 提示 | 摄像头尚未打开。
+[15:00:02] [警告] 提示 | 请先选择要删除的记录。
+[15:00:02] [警告] 提示 | 请先选择要修改的记录。
+[15:00:02] [警告] 提示 | 请输入搜索关键词。
+[15:00:03] [信息] 提示 | 该规则已是当前生效规则。
+[15:00:03] [询问] 确认删除 | 确定删除规则“java课设”吗？
+该操作会归档规则，不会删除历史考勤记录。
+[15:00:03] [信息] 导出成功 | 报表已导出：
+C:\Users\ASUS\AppData\Local\Temp\facerec_smoke_wmj_73tr\exports\smoke_export_20260419_150003.csv
+[15:00:03] [警告] 导出失败 | 导出报表失败：缺少 openpyxl 依赖。
+[15:00:03] [信息] 成功 | 规则保存成功。

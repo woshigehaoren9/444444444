@@ -1,0 +1,433 @@
+{
+  "started_at": "2026-04-19 15:00:00",
+  "finished_at": "2026-04-19 15:00:03",
+  "info": {
+    "temp_root": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\facerec_smoke_wmj_73tr",
+    "source_database": "D:\\FaceRec\\database\\database.db",
+    "test_database": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\facerec_smoke_wmj_73tr\\database_smoke.db",
+    "uncaught_exception_count": 0
+  },
+  "step_count": 40,
+  "error_count": 0,
+  "steps": [
+    {
+      "time": "15:00:00",
+      "scope": "主窗口",
+      "action": "实例化并最小化",
+      "ok": true,
+      "detail": "",
+      "exception": ""
+    },
+    {
+      "time": "15:00:00",
+      "scope": "导航栏",
+      "action": "点击 pushButton_about",
+      "ok": true,
+      "detail": "系统首页",
+      "exception": ""
+    },
+    {
+      "time": "15:00:00",
+      "scope": "页面",
+      "action": "系统首页为背景首页，无内容页实例",
+      "ok": true,
+      "detail": "",
+      "exception": ""
+    },
+    {
+      "time": "15:00:00",
+      "scope": "导航栏",
+      "action": "点击 pushButton_register",
+      "ok": true,
+      "detail": "人脸录入",
+      "exception": ""
+    },
+    {
+      "time": "15:00:00",
+      "scope": "页面",
+      "action": "人脸录入加载成功",
+      "ok": true,
+      "detail": "FaceRegister",
+      "exception": ""
+    },
+    {
+      "time": "15:00:01",
+      "scope": "人脸录入",
+      "action": "点击按钮 pushButton_import_folder",
+      "ok": true,
+      "detail": "text=批量导入",
+      "exception": ""
+    },
+    {
+      "time": "15:00:01",
+      "scope": "人脸录入",
+      "action": "点击按钮 pushButton_import_image",
+      "ok": true,
+      "detail": "text=单张导入",
+      "exception": ""
+    },
+    {
+      "time": "15:00:01",
+      "scope": "人脸录入",
+      "action": "点击按钮 pushButton_open",
+      "ok": true,
+      "detail": "text=打开",
+      "exception": ""
+    },
+    {
+      "time": "15:00:01",
+      "scope": "人脸录入",
+      "action": "点击按钮 pushButton_register",
+      "ok": true,
+      "detail": "text=保存录入",
+      "exception": ""
+    },
+    {
+      "time": "15:00:01",
+      "scope": "人脸录入",
+      "action": "点击按钮 pushButton_stop",
+      "ok": true,
+      "detail": "text=关闭",
+      "exception": ""
+    },
+    {
+      "time": "15:00:01",
+      "scope": "人脸录入",
+      "action": "点击按钮 pushButton_take_photo",
+      "ok": true,
+      "detail": "text=拍照",
+      "exception": ""
+    },
+    {
+      "time": "15:00:01",
+      "scope": "导航栏",
+      "action": "点击 pushButton_checkin",
+      "ok": true,
+      "detail": "人脸签到",
+      "exception": ""
+    },
+    {
+      "time": "15:00:01",
+      "scope": "页面",
+      "action": "人脸签到加载成功",
+      "ok": true,
+      "detail": "FaceCheckin",
+      "exception": ""
+    },
+    {
+      "time": "15:00:01",
+      "scope": "人脸签到",
+      "action": "点击按钮 pushButton_checkin",
+      "ok": true,
+      "detail": "text=开始监测",
+      "exception": ""
+    },
+    {
+      "time": "15:00:02",
+      "scope": "人脸签到",
+      "action": "点击按钮 pushButton_checkout",
+      "ok": true,
+      "detail": "text=签退",
+      "exception": ""
+    },
+    {
+      "time": "15:00:02",
+      "scope": "人脸签到",
+      "action": "点击按钮 pushButton_open",
+      "ok": true,
+      "detail": "text=打开",
+      "exception": ""
+    },
+    {
+      "time": "15:00:02",
+      "scope": "人脸签到",
+      "action": "点击按钮 pushButton_stop",
+      "ok": true,
+      "detail": "text=关闭",
+      "exception": ""
+    },
+    {
+      "time": "15:00:02",
+      "scope": "导航栏",
+      "action": "点击 pushButton_record_view",
+      "ok": true,
+      "detail": "记录查看",
+      "exception": ""
+    },
+    {
+      "time": "15:00:02",
+      "scope": "页面",
+      "action": "记录查看加载成功",
+      "ok": true,
+      "detail": "RecordView",
+      "exception": ""
+    },
+    {
+      "time": "15:00:02",
+      "scope": "记录查看",
+      "action": "点击按钮 btnMakeup",
+      "ok": true,
+      "detail": "text=手动补签",
+      "exception": ""
+    },
+    {
+      "time": "15:00:02",
+      "scope": "记录查看",
+      "action": "点击按钮 btnQuery",
+      "ok": true,
+      "detail": "text=查询",
+      "exception": ""
+    },
+    {
+      "time": "15:00:02",
+      "scope": "记录查看",
+      "action": "点击按钮 btnReset",
+      "ok": true,
+      "detail": "text=重置",
+      "exception": ""
+    },
+    {
+      "time": "15:00:02",
+      "scope": "导航栏",
+      "action": "点击 pushButton_face_record",
+      "ok": true,
+      "detail": "人脸库管理",
+      "exception": ""
+    },
+    {
+      "time": "15:00:02",
+      "scope": "页面",
+      "action": "人脸库管理加载成功",
+      "ok": true,
+      "detail": "FaceRecord",
+      "exception": ""
+    },
+    {
+      "time": "15:00:02",
+      "scope": "人脸库管理",
+      "action": "点击按钮 pushButton_delete",
+      "ok": true,
+      "detail": "text=删除",
+      "exception": ""
+    },
+    {
+      "time": "15:00:02",
+      "scope": "人脸库管理",
+      "action": "点击按钮 pushButton_modify",
+      "ok": true,
+      "detail": "text=修改",
+      "exception": ""
+    },
+    {
+      "time": "15:00:02",
+      "scope": "人脸库管理",
+      "action": "点击按钮 pushButton_search",
+      "ok": true,
+      "detail": "text=搜索",
+      "exception": ""
+    },
+    {
+      "time": "15:00:03",
+      "scope": "导航栏",
+      "action": "点击 pushButton_checkin_record",
+      "ok": true,
+      "detail": "考勤管理",
+      "exception": ""
+    },
+    {
+      "time": "15:00:03",
+      "scope": "页面",
+      "action": "考勤管理加载成功",
+      "ok": true,
+      "detail": "CheckInRecord",
+      "exception": ""
+    },
+    {
+      "time": "15:00:03",
+      "scope": "考勤管理",
+      "action": "点击按钮 btnActivateRule",
+      "ok": true,
+      "detail": "text=设为生效规则",
+      "exception": ""
+    },
+    {
+      "time": "15:00:03",
+      "scope": "考勤管理",
+      "action": "点击按钮 btnDeleteRule",
+      "ok": true,
+      "detail": "text=删除规则",
+      "exception": ""
+    },
+    {
+      "time": "15:00:03",
+      "scope": "考勤管理",
+      "action": "点击按钮 btnExportCsv",
+      "ok": true,
+      "detail": "text=导出CSV",
+      "exception": ""
+    },
+    {
+      "time": "15:00:03",
+      "scope": "考勤管理",
+      "action": "点击按钮 btnExportExcel",
+      "ok": true,
+      "detail": "text=导出Excel",
+      "exception": ""
+    },
+    {
+      "time": "15:00:03",
+      "scope": "考勤管理",
+      "action": "点击按钮 btnMakeup",
+      "ok": true,
+      "detail": "text=手动补签",
+      "exception": ""
+    },
+    {
+      "time": "15:00:03",
+      "scope": "考勤管理",
+      "action": "点击按钮 btnNewRule",
+      "ok": true,
+      "detail": "text=新增规则",
+      "exception": ""
+    },
+    {
+      "time": "15:00:03",
+      "scope": "考勤管理",
+      "action": "点击按钮 btnQuery",
+      "ok": true,
+      "detail": "text=查询",
+      "exception": ""
+    },
+    {
+      "time": "15:00:03",
+      "scope": "考勤管理",
+      "action": "点击按钮 btnReset",
+      "ok": true,
+      "detail": "text=重置",
+      "exception": ""
+    },
+    {
+      "time": "15:00:03",
+      "scope": "考勤管理",
+      "action": "点击按钮 btnSaveRule",
+      "ok": true,
+      "detail": "text=保存规则",
+      "exception": ""
+    },
+    {
+      "time": "15:00:03",
+      "scope": "导航栏",
+      "action": "点击 pushButton_exit",
+      "ok": true,
+      "detail": "退出系统",
+      "exception": ""
+    },
+    {
+      "time": "15:00:03",
+      "scope": "资源释放",
+      "action": "CheckInRecord.close_all",
+      "ok": true,
+      "detail": "",
+      "exception": ""
+    }
+  ],
+  "errors": [],
+  "dialogs": [
+    {
+      "time": "15:00:01",
+      "level": "警告",
+      "title": "摄像头打开失败",
+      "text": "未检测到可用的本地摄像头。\n请检查摄像头是否已连接或被其他程序占用。\n已尝试：0(DSHOW)、0(MSMF)、0(AUTO)"
+    },
+    {
+      "time": "15:00:01",
+      "level": "警告",
+      "title": "提示",
+      "text": "学号不能为空"
+    },
+    {
+      "time": "15:00:01",
+      "level": "警告",
+      "title": "提示",
+      "text": "摄像头尚未打开。"
+    },
+    {
+      "time": "15:00:01",
+      "level": "警告",
+      "title": "提示",
+      "text": "请先打开摄像头。"
+    },
+    {
+      "time": "15:00:01",
+      "level": "警告",
+      "title": "提示",
+      "text": "请先打开摄像头并等待画面。"
+    },
+    {
+      "time": "15:00:01",
+      "level": "警告",
+      "title": "提示",
+      "text": "请先打开摄像头并等待画面。"
+    },
+    {
+      "time": "15:00:02",
+      "level": "警告",
+      "title": "摄像头打开失败",
+      "text": "未检测到可用的本地摄像头。\n请检查摄像头是否已连接或被其他程序占用。\n已尝试：0(DSHOW)、0(MSMF)、0(AUTO)"
+    },
+    {
+      "time": "15:00:02",
+      "level": "警告",
+      "title": "提示",
+      "text": "摄像头尚未打开。"
+    },
+    {
+      "time": "15:00:02",
+      "level": "警告",
+      "title": "提示",
+      "text": "请先选择要删除的记录。"
+    },
+    {
+      "time": "15:00:02",
+      "level": "警告",
+      "title": "提示",
+      "text": "请先选择要修改的记录。"
+    },
+    {
+      "time": "15:00:02",
+      "level": "警告",
+      "title": "提示",
+      "text": "请输入搜索关键词。"
+    },
+    {
+      "time": "15:00:03",
+      "level": "信息",
+      "title": "提示",
+      "text": "该规则已是当前生效规则。"
+    },
+    {
+      "time": "15:00:03",
+      "level": "询问",
+      "title": "确认删除",
+      "text": "确定删除规则“java课设”吗？\n该操作会归档规则，不会删除历史考勤记录。"
+    },
+    {
+      "time": "15:00:03",
+      "level": "信息",
+      "title": "导出成功",
+      "text": "报表已导出：\nC:\\Users\\ASUS\\AppData\\Local\\Temp\\facerec_smoke_wmj_73tr\\exports\\smoke_export_20260419_150003.csv"
+    },
+    {
+      "time": "15:00:03",
+      "level": "警告",
+      "title": "导出失败",
+      "text": "导出报表失败：缺少 openpyxl 依赖。"
+    },
+    {
+      "time": "15:00:03",
+      "level": "信息",
+      "title": "成功",
+      "text": "规则保存成功。"
+    }
+  ]
+}
